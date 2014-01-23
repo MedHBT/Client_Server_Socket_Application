@@ -1,0 +1,19 @@
+[MENU] ##########################################################
+[MENU] #                  menu service server                   #
+[MENU] ##########################################################
+[MENU] #                                                        #
+[MENU] # 1 - Suppression d'une chaine                           #
+[MENU] #                                                        #
+[MENU] # 2 - Remplacement d'une chaine A par une chaine B       #
+[MENU] #                                                        #
+[MENU] # 3 - Recherche d'une chaine                             #
+[MENU] #                                                        #
+[MENU] # 4 - Renvoie du nombre d'occurrence d'une chaine        #
+[MENU] #                                                        #
+[MENU] # 5 - Previsualisez le resultat des modifications        #
+[MENU] #                                                        #
+[MENU] # 6 - Sauvgarde et sortie                                #
+[MENU] #                                                        #
+[MENU] ##########################################################
+[MENU] #    CHOISISSEZ LA COMMANDE QUE VOUS VOULEZ EXECUTEZ     #
+[MENU] ##########################################################
